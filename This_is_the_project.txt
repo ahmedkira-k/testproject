@@ -1,3 +1,6 @@
 This is my first version
 I'm trying to have some fun with Git 
 Let's see
+
+Now I added some lines to the second version
+Let's see
